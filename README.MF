@@ -1,4 +1,1 @@
 upload splider-demo use git
-git is version controller system
-git is a soft ware
-git is a distributed verion control system (git 是一个分布式版本控制系统
